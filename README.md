@@ -21,20 +21,6 @@ A lightweight Python authentication framework supporting **tokens**, **sessions*
 - Features: Token-based auth, session management, modular architecture
 - Languages: Python
 - Status: Alpha 0.1.2
-
-### 2. [Football Analytics Scraper](https://github.com/yigitb-dev/football-analytics-scraper)
-Scrapes football data (player ratings, stats) from FotMob and organizes it into CSV files.  
-- Features: Multi-league scraping, automated data collection
-- Languages: Python
-- Libraries: Selenium, BeautifulSoup, pandas
-
-### 3.[opti-core](https://github.com/yigitb-dev/opti-core)
-Python utilities to organize files, remove duplicates, and optimize desktop workflows.
-- Features: Downloads organizer, duplicate remover, folder cleaner
-- Languages: Python
-- Libraries: os, shutil
-
-
 ---
 
 ## 📫 Contact Me
