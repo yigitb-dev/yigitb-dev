@@ -20,7 +20,7 @@ I enjoy building tools that solve real-world problems and learning new technolog
 A lightweight Python authentication framework supporting **tokens**, **sessions**, and **OAuth integrations**.  
 - Features: Token-based auth, session management, modular architecture
 - Languages: Python
-- Status: Production-ready
+- Status: Alpha 0.1.2
 
 ### 2. [Football Analytics Scraper](https://github.com/yigitb-dev/football-analytics-scraper)
 Scrapes football data (player ratings, stats) from FotMob and organizes it into CSV files.  
