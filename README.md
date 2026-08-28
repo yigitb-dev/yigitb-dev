@@ -20,7 +20,7 @@ I enjoy building tools that solve real-world problems and learning new technolog
 A lightweight Python authentication framework supporting **tokens**, **sessions**, and **OAuth integrations**.  
 - Features: Token-based auth, session management, modular architecture
 - Languages: Python
-- Status: Alpha 0.1.2
+- Status: Alpha 0.1.2 (Paused development:()
 ---
 
 ## 📫 Contact Me
