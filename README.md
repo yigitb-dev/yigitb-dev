@@ -7,8 +7,7 @@ I enjoy building tools that solve real-world problems and learning new technolog
 
 ## 🚀 Skills
 
-- **Languages:** Python, JavaScript (basic), C# (basic)
-- **Frameworks & Tools:** Selenium, BeautifulSoup, Flask, PyJWT, Cryptography, Tkinter, Requests
+- **Languages:** Python, JavaScript (basic), C++ (basic), C (basic)
 - **Areas of Interest:** Web scraping, desktop automation, authentication frameworks, data processing, machine learning
 - **Other:** Git, GitHub, object-oriented programming, Python packaging
 
