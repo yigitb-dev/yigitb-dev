@@ -19,7 +19,7 @@ A lightweight Python authentication framework supporting **tokens**, **sessions*
 - Languages: Python
 - Status: Alpha 0.1.2 (Paused development:()
 
-### 2.[Calloc Chess Engine](https://github.com/yigitb-dev/calloc_chessengine)
+### 2. [Calloc Chess Engine](https://github.com/yigitb-dev/calloc_chessengine)
 A custom made chess engine that is entirely written in C.
   - Features: Brute Force with alpha beta pruning, Bitboards.
   - Languages: C
