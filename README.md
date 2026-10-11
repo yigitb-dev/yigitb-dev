@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Yiğit!
 
-I’m a Python developer with experience in **automation**, **web scraping**, and **authentication frameworks**.  
-I enjoy building tools that solve real-world problems and learning new technologies along the way.
-
+I am a CS student at KU Leuven who likes to code in Python and more recently in C/C++. I enjoy thinking low-level 
 ---
 
-## 🚀 Skills
+## Skills
 
-- **Languages:** Python, JavaScript (basic), C++ (basic), C (basic)
-- **Areas of Interest:** Web scraping, desktop automation, authentication frameworks, data processing, machine learning
+- **Languages:** Python, C++ (basic), C (basic)
+- **Areas of Interest:** Desktop automation, authentication frameworks, data processing, machine learning, low-level programming, Operating Systems.
 - **Other:** Git, GitHub, object-oriented programming, Python packaging
 
 ---
@@ -20,6 +18,12 @@ A lightweight Python authentication framework supporting **tokens**, **sessions*
 - Features: Token-based auth, session management, modular architecture
 - Languages: Python
 - Status: Alpha 0.1.2 (Paused development:()
+
+### 2.[Calloc Chess Engine](https://github.com/yigitb-dev/calloc_chessengine)
+A custom made chess engine that is entirely written in C.
+  - Features: Brute Force with alpha beta pruning, Bitboards.
+  - Languages: C
+  - Status: Still in development
 ---
 
 ## 📫 Contact Me
