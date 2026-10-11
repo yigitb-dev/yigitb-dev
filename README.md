@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yiğit!
 
-I am a CS student at KU Leuven who likes to code in Python and more recently in C/C++. I enjoy thinking low-level 
+- I am a CS student at KU Leuven who likes to code in Python and more recently in C/C++. I enjoy thinking low-level 
 ---
 
 ## Skills
