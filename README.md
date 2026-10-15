@@ -5,7 +5,7 @@
 
 ## Skills
 
-- **Languages:** Python, C++ (basic), C (basic)
+- **Languages:** Python, C, C++ (basic)
 - **Areas of Interest:** Desktop automation, authentication frameworks, data processing, machine learning, low-level programming, Operating Systems.
 - **Other:** Git, GitHub, object-oriented programming, Python packaging
 
